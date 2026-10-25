@@ -1,0 +1,7 @@
+.dcutt-order-map{clear:both;margin:14px 0;color:#34465a;max-width:100%}
+.dcutt-order-details{border:1px solid #dce3ed;border-radius:7px;overflow:hidden;background:white}
+.dcutt-order-details>summary{cursor:pointer;padding:11px;color:#446084;font-size:13px;font-weight:600}
+.dcutt-order-content{padding:0 12px 12px}.dcutt-order-canvas{height:270px;width:100%;min-height:200px;background:#e9eeeb;border-radius:7px}
+.dcutt-order-content p{margin:9px 0 0}.dcutt-order-content a{font-size:12px;color:#446084}
+
+.dcutt-order-fallback{background:#fff8e8;padding:8px;color:#985b13}.dcutt-order-fallback[hidden]{display:none}
